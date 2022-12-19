@@ -1,0 +1,68 @@
+body{
+    font-family: Arial;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+table {
+   /* border: 2px solid rgb(26, 107, 99); */
+    border-collapse: collapse;
+    font-size: 16px;
+    text-align: center;
+    background: paleturquoise;
+    color: teal;
+    padding-left: 10%;
+    margin: 0 auto;
+   
+}
+thead {
+    background: rgb(26, 107, 99);
+    color: whitesmoke;
+    font-size: 18px;
+    padding: 15px;
+
+}
+th {
+    border-bottom: 1px solid whitesmoke;
+}
+td {
+    border: 3px solid whitesmoke;
+    padding: 10px;
+    
+
+}
+
+header{
+    text-align: center;
+    background-color: teal;
+    padding: 20px;
+    color: whitesmoke;
+}
+
+main{
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+}
+
+h2 {
+    color: teal;
+}
+
+h3{
+    background-color:#d9aa00;
+    color: whitesmoke;
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: teal;
+    padding: 1px;
+    color: whitesmoke;
+    font-size: small;
+}
+
+a {
+    color: #d9aa00;
+}
